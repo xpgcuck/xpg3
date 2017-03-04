@@ -1,0 +1,11 @@
+#List the Decks you want to translate here.
+#The format should be:
+#http://vg.xpg.jp/deck/deck.fcgi?ListNo=xxxxxx
+#On each line
+#Where the "xxxxxx" are the Deck number
+#Lines that begin with "#" are ignored
+#Do not change this file's name.
+#The output file is "Decklists.txt". It will be created if it doesn't exist, and it will be appended with more Decklists if it does.
+
+https://vg.xpg.jp/deck/deck.fcgi?ListNo=50409
+https://vg.xpg.jp/deck/deck.fcgi?ListNo=51143
